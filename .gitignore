@@ -1,3 +1,12 @@
+# Trash files
+*.bak
+*.dsw
+*.map
+*.mbt
+*.mrt
+*.obr
+*.pds
+
 # Compiled Object files
 *.slo
 *.lo
