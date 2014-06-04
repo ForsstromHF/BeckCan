@@ -4,6 +4,7 @@
 *******************************************************************************
 *
 * (c) 2006 by BECK IPC GmbH
+* Edit by Morol
 *
 * BECK IPC GmbH
 * Grüninger Weg 24
